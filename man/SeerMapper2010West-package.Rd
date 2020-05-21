@@ -4,13 +4,13 @@
 \title{\var{SeerMapper}-Supplemental 2010 Census Tract Western States Boundary Datasets}
 \description{
  The \var{SeerMapper2010West} package provides supplemental 2010 Census Tract boundary 
- datasets for 14 states without Seer Registries that are west of the Mississippi river
+ datasets for 13 states without Seer Registries that are west of the Mississippi river
  use with \var{SeerMapper} package.
  
  The \var{SeerMapper2010Regs} supplemental data package contains the 2010 census tract
- boundary datasets for 15 states with NCI Seer Registries.  
+ boundary datasets for 19 states with NCI Seer Registries.  
  The \var{SeerMapper2010East} supplemental data package contains the 2010 census tract
- boundary datasets for 23 states (including DC and PR) that do not have NCI Seer Registries and are 
+ boundary datasets for 20 states (including DC and PR) that do not have NCI Seer Registries and are 
  east of the Mississippi river.
  
  By loading these packages (via the library function) expands the \var{SeerMapper}
@@ -21,8 +21,8 @@
     \tabular{ll}{
       Package:  \tab SeerMapper2010West\cr
       Type:     \tab Package\cr
-      Version:  \tab 1.2.0\cr
-      Date:     \tab 2017-04-13\cr
+      Version:  \tab 1.2.2\cr
+      Date:     \tab 2019-04-12\cr
       License:  \tab GPL-2\cr
       LazyLoad: \tab no\cr
     } 
@@ -53,7 +53,6 @@ boundary datasets for:
     FIPS   Name
      05     Arkansas
      08     Colorado
-     16     Idaho
      20     Kansas
      27     Minnesota
      29     Missouri
@@ -68,9 +67,9 @@ boundary datasets for:
   }
 }  
 \author{
-Jim Pearson \email{jpearson@statnetconsulting.com}\cr 
-Maintainer: "Jim Pearson" \email{jpearson@statnetconsulting.com}\cr 
-Package compiled by "Jim Pearson" \email{jpearson@statnetconsulting.com}
+Jim Pearson \email{jpearson0525@gmail.com}\cr 
+Maintainer: "Jim Pearson" \email{jpearson0525@gmail.com}\cr 
+Package compiled by "Jim Pearson" \email{jpearson0525@sgmail.com}
 }
 
 
