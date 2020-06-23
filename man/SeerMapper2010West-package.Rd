@@ -21,8 +21,8 @@
     \tabular{ll}{
       Package:  \tab SeerMapper2010West\cr
       Type:     \tab Package\cr
-      Version:  \tab 1.2.3\cr
-      Date:     \tab 2020-06-17\cr
+      Version:  \tab 1.2.4\cr
+      Date:     \tab 2020-06-22\cr
       License:  \tab GPL-2\cr
       LazyLoad: \tab no\cr
     } 
@@ -68,7 +68,6 @@ boundary datasets for:
 }  
 \author{
 Jim Pearson \email{jbpearson353@gmail.com}\cr 
-Maintainer: "Fanni Zhang" \email{zhangf@imsweb.com}\cr 
-Package compiled by "Fanni Zhang" \email{zhangf@imsweb.com}
+Maintainer: "Joe Zou" \email{zouj@imsweb.com}
 }
 
